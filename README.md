@@ -58,3 +58,6 @@ contract ErrorHandlingExample {
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue)
+
