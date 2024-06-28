@@ -1,2 +1,1 @@
-# Specify the main language of the repository
-*.sol linguist-language=Solidity
+![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue)
