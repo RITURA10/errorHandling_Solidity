@@ -1,0 +1,2 @@
+# Specify the main language of the repository
+*.sol linguist-language=Solidity
