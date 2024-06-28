@@ -6,6 +6,9 @@ The purpose of this code is to demonstrate the implementation of error handling 
 
 The `ErrorHandlingExample` contract is a simple Solidity smart contract that demonstrates the use of error handling methods: `require()`, `assert()`, and `revert()`. This contract includes functions to set, double, and reset a balance with built-in checks to ensure proper error handling and validation.
 
+## Language used
+
+![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue)
 
 ## Getting Started
 
@@ -59,5 +62,4 @@ contract ErrorHandlingExample {
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
-![Solidity](https://img.shields.io/badge/Solidity-0.8.0-blue)
 
